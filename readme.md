@@ -60,7 +60,7 @@ pip install -r requirements.txt
 
 ## 4. Quick Verification & Reproducing All Manuscript Results
 
-### A. Fast 60-Second Verification Suite (Recommended First Step for Reviewers)
+### A. Fast Verification Suite 
 
 ```bash
 python verify_all_simulations.py
