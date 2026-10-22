@@ -1,0 +1,13 @@
+colony_size,completed,transport_time_min,transport_time_sec,total_interruptions,total_jams,mr_so_events,mr_lf_events,mr_so_pct,mr_lf_pct,total_mr_pct,condition,p_so,p_lfr,tr_jam_sec,rho_jam
+54,True,13.233,794.0,2.0,0.0,0,2,0.0,4.08,4.08,Multi_Lane_Control,0.3,1.0,9.0,0.008
+54,True,15.333,920.0,15.0,1.0,5,13,10.2,26.53,36.73,Single_Lane_Full,0.3,1.0,9.0,0.008
+54,True,12.35,741.0,7.0,2.0,0,19,0.0,38.78,38.78,Knockout_No_SO,0.0,1.0,9.0,0.008
+54,False,45.0,2700.0,8.0,2.0,2,0,4.55,0.0,4.55,Knockout_No_LFR,0.3,0.0,9.0,0.008
+76,True,15.233,914.0,4.0,0.0,3,9,4.35,13.04,17.39,Multi_Lane_Control,0.3,1.0,9.0,0.008
+76,True,13.133,788.0,10.0,1.0,2,12,2.9,17.39,20.29,Single_Lane_Full,0.3,1.0,9.0,0.008
+76,True,20.583,1235.0,17.0,2.0,0,25,0.0,36.23,36.23,Knockout_No_SO,0.0,1.0,9.0,0.008
+76,False,45.0,2700.0,4.0,0.0,1,0,2.33,0.0,2.33,Knockout_No_LFR,0.3,0.0,9.0,0.008
+110,True,12.767,766.0,7.0,0.0,7,16,7.07,16.16,23.23,Multi_Lane_Control,0.3,1.0,9.0,0.008
+110,True,21.6,1296.0,24.0,8.0,9,28,9.09,28.28,37.37,Single_Lane_Full,0.3,1.0,9.0,0.008
+110,True,26.483,1589.0,20.0,1.0,0,28,0.0,28.28,28.28,Knockout_No_SO,0.0,1.0,9.0,0.008
+110,False,45.0,2700.0,10.0,3.0,4,0,4.94,0.0,4.94,Knockout_No_LFR,0.3,0.0,9.0,0.008
